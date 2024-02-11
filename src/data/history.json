@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Stagiaire",
+    "organisation": "DGI ESP",
+    "startDate": "15 Mai",
+    "endDate": "30 Join",
+    "experiences": ["J'ai eu à travailler sur python/flask", "Dévelppement d'une plateforme de Détection de Fake News basée sur l'IA"],
+    "imageSrc": "history/esp.png"
+  }
+]

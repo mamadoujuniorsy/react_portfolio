@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Page d'inscrition",
+    "imageSrc": "projects/project2.png",
+    "description":"Ceci est un mini site d'inscription CRUD que j'ai développé en Flask, histoire de m'entrainer sur la mise en place d'hébergement par site et par dossier et aussi la mise en place d'un serveur DNS sur Ubuntu(Linux)",
+    "skills": ["Flask", "Sqlite", "Réseaux"],
+    "demo": "",
+    "source": "https://www.github.com/mamadoujuniorsy/flask_mini_site"
+  },
+  {
+    "title": "Fake News Detector",
+    "imageSrc": "projects/project.png",
+    "description": "Ceci est un projet réalisé pour notre mémoire de DST, c'est une plateforme de détection de Fake News qui utilise des modéles entrainé avec la combinaison du NLP et d'autres algos pour garantir la puissance du modéle",
+    "skills": ["Python", "Flask", "Algorithme IA", "Conception"],
+    "demo": "",
+    "source": "https://www.github.com/mamadoujuniorsy/fake_news_detection"
+  },
+  {
+    "title": "E_commerce",
+    "imageSrc": "projects/project1.png",
+    "description": "Ce mini projet m'a permis de tester mes skills en laravel avec la mise en place de la page d'administration d'un site e_commerce",
+    "skills": ["Laravel", "MySql"],
+    "demo": "",
+    "source": "https://www.github.com/mamadoujuniorsy/laravel_e_commerce"
+  },
+  {
+    "title": "Code de la route",
+    "imageSrc": "projects/route.png",
+    "description": "Ce projet m'a permis de mettre en place un site web qui permet de s'entrainer sur le code de la route",
+    "skills": ["React JS", "Css"],
+    "demo": "",
+    "source": "https://www.github.com/mamadoujuniorsy/code_de_la_route"
+  },
+  {
+    "title": "Blog App",
+    "imageSrc": "projects/project2.png",
+    "description": "Ceci est un mini projet qui nous a été donné lors d'un examen qui consistait a développé une application de blog mobile android",
+    "skills": ["Android Studio", "Java", "XML"],
+    "demo": "",
+    "source": "https://www.github.com/mamadoujuniorsy/laravel_e_commerce"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project1.png",
+    "description": "Ceci est le code de mon portfolio qui utilise React JS et Css",
+    "skills": ["React JS", "Css"],
+    "demo": "",
+    "source": "https://www.github.com/mamadoujuniorsy/react-portfolio"
+  }
+]
